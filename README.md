@@ -37,3 +37,10 @@ You'll have a fully editable PowerPoint presentation with:
 - Clean background images
 - Editable text boxes
 - Original slide structure preserved
+
+## Acknowledgments
+
+This project was built following a tutorial by :
+
+*   **Video Title:** [Link to the specific video](https://www.youtube.com/watch?v=pDGHg5jHLM8)
+*   **Author:** [观点lab](https://www.youtube.com/@%E8%A7%80%E9%BB%9ELAB)
